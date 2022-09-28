@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @josephrichardsonasv (Joseph Richardson)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine learning and Automation
+- 🌱 I’m currently learning Microservices and Kubernets Flows
+- 💞️ I’m looking to collaborate on Virtualization of Intel Quickassist technology
+      Microservice Flows with QAT
 - 📫 How to reach me: joseph.richardson@intel.com 480 554-2218
 
 <!---
